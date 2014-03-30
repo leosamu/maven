@@ -3,7 +3,7 @@
 	<groupId>org.upv.ufasu</groupId>
 	<artifactId>weather-multimodule</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>weather-multimodule application</name>
 	<url>http://www.upv.es</url>
 	<description>A multimodule application</description>
